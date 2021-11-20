@@ -6,10 +6,11 @@ Tech Used:
 1. HTML
 2. CSS and Bootstrap
 3. Java Script
+4. My SQL
 
 # Basic Banking System
 
-1. Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name,email, current balance etc. Transfers table will record all transfers happened.
+1. Started  with creating a dummy data in database for 10 customers. Customers table has basic fields such as name,email, current balance etc. Transfers table will record all transfers happened.
 
 2. Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers .
 
