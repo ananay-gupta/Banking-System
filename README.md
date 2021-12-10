@@ -1,13 +1,3 @@
-# TSFTask1GRIPNOV2021
-
-#Basic Banking System
-
-Tech Used:
-1. HTML
-2. CSS and Bootstrap
-3. Java Script
-4. My SQL
-
 # Basic Banking System
 
 1. Started  with creating a dummy data in database for 10 customers. Customers table has basic fields such as name,email, current balance etc. Transfers table will record all transfers happened.
@@ -16,7 +6,13 @@ Tech Used:
 
 3. No Login Page. No User Creation. Only transfer of money between multiple users.
 
-This repository contains all the details of the website. #GRIPNOVEMBER21 #TheSparksFoundation
+This repository contains all the details of the website.
 
-Submitted by-
+Tech Used:
+1. HTML
+2. CSS and Bootstrap
+3. Java Script
+4. My SQL
+
+Made by-
 Ananay Gupta
